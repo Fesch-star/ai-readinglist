@@ -1,1 +1,11 @@
-
+{
+  "generated": "2026-09-15T17:00:00Z",
+  "items": [
+    {
+      "id": "test-001",
+      "title": "Dummy test item — ignore",
+      "url": "https://example.com/test-article",
+      "description": "Placeholder to test the GitHub \u2192 cloud \u2192 phone page path."
+    }
+  ]
+}
