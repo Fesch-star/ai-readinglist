@@ -1,11 +1,75 @@
 {
-  "generated": "2026-09-15T17:00:00Z",
+  "generated": "2026-09-15T22:24:33.321665",
   "items": [
     {
-      "id": "test-001",
-      "title": "Dummy test item — ignore",
-      "url": "https://example.com/test-article",
-      "description": "Placeholder to test the GitHub \u2192 cloud \u2192 phone page path."
+      "id": "2026-Week-38.md (139 candidates, real run after the weekly-collector fix)-1",
+      "title": "New Research on Learning Science: The September Dispatch",
+      "url": "https://carlhendrick.substack.com/p/new-research-on-learning-science",
+      "category": "5 - Student Learning & Outcomes",
+      "description": "Carl Hendrick's roundup of new learning-science research, explicitly including the conditions under which AI helps students - evidence-based, not opinion."
+    },
+    {
+      "id": "2026-Week-38.md (139 candidates, real run after the weekly-collector fix)-2",
+      "title": "Good Lord, What's Happening With AI?",
+      "url": "https://fitzyhistory.substack.com/p/good-lord-whats-happening-with-ai",
+      "category": "1 - Practical Teaching Methods",
+      "description": "AI safety, and concretely how teachers can talk about it with students - usable, timely."
+    },
+    {
+      "id": "2026-Week-38.md (139 candidates, real run after the weekly-collector fix)-3",
+      "title": "\"After the University\" (Review)",
+      "url": "https://hollisrobbinsanecdotal.substack.com/p/after-the-university-review",
+      "category": "2 - Policy & Institutional Adoption",
+      "description": "A humanities dean's review of a book on the university's future - a new source (added in the Sept 15 audit), included to establish whether her writing lands for you."
+    },
+    {
+      "id": "2026-Week-38.md (139 candidates, real run after the weekly-collector fix)-4",
+      "title": "Executive Briefing: A Thousand Students Show What Happens When You Take the AI Away",
+      "url": "https://natesnewsletter.substack.com/p/us-china-ai-human-flourishing",
+      "category": "1 - Practical Teaching Methods / 5 - Student Outcomes",
+      "description": "Nate B Jones - flagged as high-authority in the original triage rules on organizational AI adoption; a real study of students without AI access."
+    },
+    {
+      "id": "2026-Week-38.md (139 candidates, real run after the weekly-collector fix)-5",
+      "title": "Beyond the Hype: Why Your School's AI Strategy Needs System Altitude",
+      "url": "https://nickpotkalitsky.substack.com/p/beyond-the-hype-why-your-schools-4fc",
+      "category": "2 - Policy & Institutional Adoption",
+      "description": "Directly about matching AI literacy strategy to the right organizational 'altitude' - maps closely onto your own strategic-not-administrative framing of the AI Lead role."
+    },
+    {
+      "id": "2026-Week-38.md (139 candidates, real run after the weekly-collector fix)-6",
+      "title": "AI has half a mind",
+      "url": "https://peterellerton.substack.com/p/ai-has-half-a-mind",
+      "category": "7 - Critical Perspectives & Ethics",
+      "description": "What the divided-brain metaphor might tell us about AI and education - a new source (added Sept 15), philosophical/critical framing."
+    },
+    {
+      "id": "2026-Week-38.md (139 candidates, real run after the weekly-collector fix)-7",
+      "title": "AI Changes the Learner. But Do We Know How?",
+      "url": "https://theslowai.substack.com/p/ai-change-student-thinking",
+      "category": "5 - Student Learning & Outcomes",
+      "description": "Two educators publicly working through what the evidence actually shows, rather than asserting a position - a new source, picked as the strongest of 5 candidates it produced this run."
+    },
+    {
+      "id": "2026-Week-38.md (139 candidates, real run after the weekly-collector fix)-8",
+      "title": "Your AI Policy Does Not Apply to the Person Who Wrote It",
+      "url": "https://theslowai.substack.com/p/ai-disclosure-statement-template",
+      "category": "2 - Policy & Institutional Adoption / 3 - Assessment & Integrity",
+      "description": "MIT telling its own instructors to stop leaning on AI detectors and declare their own AI use - directly relevant if UU's AI policy needs to apply symmetrically to staff, not just students."
+    },
+    {
+      "id": "2026-Week-38.md (139 candidates, real run after the weekly-collector fix)-9",
+      "title": "From ethical principles to executable governance: A policy-as-code framework for trustworthy AI in higher education",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666920X26000561?dgcid=rss_sd_all",
+      "category": "2 - Policy & Institutional Adoption",
+      "description": "Academic (Computers and Education: AI journal) - a concrete governance-framework proposal, one of only 2 I pulled from a 100-article batch this journal dumped (see run-report)."
+    },
+    {
+      "id": "2026-Week-38.md (139 candidates, real run after the weekly-collector fix)-10",
+      "title": "Leveraging complex systems: Leading for transformative change",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666920X26000251?dgcid=rss_sd_all",
+      "category": "2 - Policy & Institutional Adoption",
+      "description": "Same journal - change-leadership framing, matches your change-leadership orientation to the role better than most of the deeply technical ML papers in that batch."
     }
   ]
 }
