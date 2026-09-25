@@ -1,4 +1,82 @@
 {
-  "generated": "2026-09-16T12:32:28.150595",
-  "items": []
+  "generated": "2026-09-25T09:51:08.123692",
+  "items": [
+    {
+      "id": "2026-Week-39-1",
+      "title": "Teaching AI to Tell Us Nobody Is Home",
+      "url": "https://hybridhorizons.substack.com/p/teaching-ai-to-tell-us-nobody-is",
+      "category": "1 - Practical Teaching",
+      "description": "HybridHorizons (previously flagged by Femke as 'genuinely transformative') uses a stats-course example to frame what AI can't detect — a ready classroom device for teaching students the epistemic limits of AI."
+    },
+    {
+      "id": "2026-Week-39-2",
+      "title": "The Mathematicians Are the AI Higher Ed Canary (and Did They Just Find Out They're Humanists?)",
+      "url": "https://kylesaunders.substack.com/p/the-mathematicians-are-the-ai-higher",
+      "category": "7 - Critical Perspectives & Ethics",
+      "description": "Twenty-five Fields Medalists signing a public letter on AI optimisation is a rare institutional dissent event — directly relevant for framing UU's strategic position on AI and for Femke's boardroom conversations with the rector."
+    },
+    {
+      "id": "2026-Week-39-3",
+      "title": "ChatGPT in Education: Balancing Professional Autonomy, Transforming Relationships and Rethinking the Purpose of Education",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/ejed.70868?af=R",
+      "category": "2 - Policy & Institutional Adoption",
+      "description": "Title maps exactly to Femke's three central questions: what changes for teachers, how power/relationships shift, and what the university is for — likely a strong empirical anchor for the programme plan. Best pick from this week's EJED batch."
+    },
+    {
+      "id": "2026-Week-39-4",
+      "title": "\"The Wind Beneath Their Wings\": TPACK, Growth Mindset, Commitment, and Teachers' Motivation to Integrate Artificial Intelligence of Things",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/ejed.70871?af=R",
+      "category": "4 - Curriculum Design & Transformation",
+      "description": "Identifies the psychological and pedagogical factors that predict whether teachers actually adopt AI — directly useful for Femke's change-management work with REBO faculty."
+    },
+    {
+      "id": "2026-Week-39-5",
+      "title": "Agentivism: a learning theory for the age of artificial intelligence",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666920X26001463?dgcid=rss_sd_all",
+      "category": "4 - Curriculum Design & Transformation",
+      "description": "Yan & Gašević propose a new learning theory centred on AI agency — conceptually important for grounding UU's pedagogical framework; connects directly to existing Zettel notes on scaffolding, cognitive load, and what learning actually requires."
+    },
+    {
+      "id": "2026-Week-39-6",
+      "title": "Building AI companions that prioritise learning over performance",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666920X26001426?dgcid=rss_sd_all",
+      "category": "1 - Practical Teaching",
+      "description": "Khosravi, Gašević et al. address the core design tension Femke keeps returning to — AI systems that build genuine competence rather than just producing output — actionable for course design guidance and for WP3."
+    },
+    {
+      "id": "2026-Week-39-7",
+      "title": "Reconceptualizing digital literacy in the AI era: A systematic review of validated frameworks from an ecological perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666920X26001414?dgcid=rss_sd_all",
+      "category": "4 - Curriculum Design & Transformation",
+      "description": "Systematic review of validated AI-literacy frameworks — directly useful for the literacy component of WP3 and for benchmarking UU's approach against the field."
+    },
+    {
+      "id": "2026-Week-39-8",
+      "title": "ChatGPT for Interdisciplinary Learning: Does it Equally Benefit STEM and Non-STEM Students",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666920X26001438?dgcid=rss_sd_all",
+      "category": "5 - Student Learning & Outcomes",
+      "description": "Empirical data on differential ChatGPT benefits across disciplines — directly relevant to REBO (law, economics, governance = non-STEM) and Femke's argument that AI integration must be discipline-sensitive."
+    },
+    {
+      "id": "2026-Week-39-9",
+      "title": "Boy, Was I Wrong About Alpha School",
+      "url": "https://wesstrabelsi.substack.com/p/boy-was-i-wrong-about-alpha-school",
+      "category": "7 - Critical Perspectives & Ethics",
+      "description": "A first-hand reversal on Alpha School — once cited as an AI-in-education flagship, now described as 'nuclear-waste-level toxic' — useful cautionary case study for institutional governance conversations."
+    },
+    {
+      "id": "2026-Week-39-10",
+      "title": "A mixed-methods analysis of AI scaffolding patterns and student inquiry profiles in a middle-school agriculture-STEM classroom",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666920X26001451?dgcid=rss_sd_all",
+      "category": "1 - Practical Teaching",
+      "description": "Empirical scaffolding data that connects to Femke's existing Zettel notes on scaffolding theory (Tawnya Means, Designed to Fade) — bridges the theoretical debate she's been tracking to actual classroom observations."
+    },
+    {
+      "id": "2026-Week-39-11",
+      "title": "Exploring Teachers' Motivation for Sustainable Adoption of Artificial Intelligence in L2 Education: A Descriptive Qualitative Inquiry",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/ejed.70877?af=R",
+      "category": "2 - Policy & Institutional Adoption",
+      "description": "Qualitative study on what sustains teacher AI adoption over time — provides interview-level evidence for Femke's staff engagement strategy, complementing the TPACK/growth-mindset quantitative findings above."
+    }
+  ]
 }
